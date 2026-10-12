@@ -1,0 +1,1 @@
+Static generator Type sh
